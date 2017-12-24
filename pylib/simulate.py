@@ -47,7 +47,10 @@ teamsData = [{'name': team, 'w': 0, 'l': 0, 'otl': 0, 'row': 0, 'elo': 1500, 'aw
 
 today = datetime.date.today().strftime("%m-%d-%Y")
 
-todaysGames = []
+todaysGames = {
+    "date": datetime.date.today().strftime("%Y-%m-%d")
+    "data" []
+}
 
 playoffMarker = False
 
@@ -116,7 +119,7 @@ def processGame (game, teamList, future):
             'homeProb': eA,
             'awayProb': eB
         }
-        todaysGames.append(newGame) if newGame not in todaysGames else ()
+        todaysGames.data.append(newGame) if newGame not in todaysGames else ()
 
     # Get scores
     homeGoals = game['homeGoals']
