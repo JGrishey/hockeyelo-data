@@ -48,8 +48,8 @@ teamsData = [{'name': team, 'w': 0, 'l': 0, 'otl': 0, 'row': 0, 'elo': 1500, 'aw
 today = datetime.date.today().strftime("%m-%d-%Y")
 
 todaysGames = {
-    "date": datetime.date.today().strftime("%Y-%m-%d")
-    "data" []
+    "date": datetime.date.today().strftime("%Y-%m-%d"),
+    "data": []
 }
 
 playoffMarker = False
