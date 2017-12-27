@@ -45,10 +45,10 @@ teamsData = [{'name': team, 'w': 0, 'l': 0, 'otl': 0, 'row': 0, 'elo': 1500, 'aw
         'pres': 0, 'conf': 0, 'r2': 0, 'r3': 0, 'r4': 0, 'cup': 0}
          for team in METRO + ATLANTIC + CENTRAL + PACIFIC]
 
-today = datetime.date.today().strftime("%m-%d-%Y")
+today = datetime.date.today().strftime("%Y-%m-%d")
 
 todaysGames = {
-    "date": datetime.date.today().strftime("%Y-%m-%d"),
+    "date": today,
     "data": []
 }
 
@@ -119,7 +119,7 @@ def processGame (game, teamList, future):
             'homeProb': eA,
             'awayProb': eB
         }
-        todaysGames.data.append(newGame) if newGame not in todaysGames else ()
+        todaysGames["data"].append(newGame) if newGame not in todaysGames["data"] else ()
 
     # Get scores
     homeGoals = game['homeGoals']
@@ -212,7 +212,6 @@ def runSeason (teams, pastPO):
     for game in pastReg:
         processGame(game, teams, False)
 
-    
     def simRound (roundSeries, roundGames):
         # Simulate scheduled games
         for game in roundGames:
