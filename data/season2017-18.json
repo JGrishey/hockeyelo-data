@@ -5114,65 +5114,65 @@
     {
         "date": "2017-12-28",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "SO",
         "homeTeam": "Washington Capitals",
         "awayTeam": "Boston Bruins",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 4,
+        "awayGoals": 3
     },
     {
         "date": "2017-12-28",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Tampa Bay Lightning",
         "awayTeam": "Montr\u00e9al Canadiens",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 3,
+        "awayGoals": 1
     },
     {
         "date": "2017-12-28",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Florida Panthers",
         "awayTeam": "Philadelphia Flyers",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 3,
+        "awayGoals": 2
     },
     {
         "date": "2017-12-28",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Arizona Coyotes",
         "awayTeam": "Toronto Maple Leafs",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 4,
+        "awayGoals": 7
     },
     {
         "date": "2017-12-28",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Vancouver Canucks",
         "awayTeam": "Chicago Blackhawks",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 5,
+        "awayGoals": 2
     },
     {
         "date": "2017-12-28",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "OT",
         "homeTeam": "Los Angeles Kings",
         "awayTeam": "Vegas Golden Knights",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 2,
+        "awayGoals": 3
     },
     {
         "date": "2017-12-28",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "SO",
         "homeTeam": "San Jose Sharks",
         "awayTeam": "Calgary Flames",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 3,
+        "awayGoals": 2
     },
     {
         "date": "2017-12-29",
