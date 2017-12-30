@@ -5177,101 +5177,101 @@
     {
         "date": "2017-12-29",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "OT",
         "homeTeam": "New Jersey Devils",
         "awayTeam": "Buffalo Sabres",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 3,
+        "awayGoals": 4
     },
     {
         "date": "2017-12-29",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Ottawa Senators",
         "awayTeam": "Columbus Blue Jackets",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 5,
+        "awayGoals": 4
     },
     {
         "date": "2017-12-29",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "SO",
         "homeTeam": "Detroit Red Wings",
         "awayTeam": "New York Rangers",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 3,
+        "awayGoals": 2
     },
     {
         "date": "2017-12-29",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Tampa Bay Lightning",
         "awayTeam": "Philadelphia Flyers",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 3,
+        "awayGoals": 5
     },
     {
         "date": "2017-12-29",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Carolina Hurricanes",
         "awayTeam": "Pittsburgh Penguins",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 2,
+        "awayGoals": 1
     },
     {
         "date": "2017-12-29",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Minnesota Wild",
         "awayTeam": "Nashville Predators",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 4,
+        "awayGoals": 2
     },
     {
         "date": "2017-12-29",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Winnipeg Jets",
         "awayTeam": "New York Islanders",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 4,
+        "awayGoals": 2
     },
     {
         "date": "2017-12-29",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Dallas Stars",
         "awayTeam": "St. Louis Blues",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 4,
+        "awayGoals": 2
     },
     {
         "date": "2017-12-29",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "OT",
         "homeTeam": "Colorado Avalanche",
         "awayTeam": "Toronto Maple Leafs",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 4,
+        "awayGoals": 3
     },
     {
         "date": "2017-12-29",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "OT",
         "homeTeam": "Edmonton Oilers",
         "awayTeam": "Chicago Blackhawks",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 3,
+        "awayGoals": 4
     },
     {
         "date": "2017-12-29",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Anaheim Ducks",
         "awayTeam": "Calgary Flames",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 2,
+        "awayGoals": 1
     },
     {
         "date": "2017-12-30",
