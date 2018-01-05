@@ -5537,108 +5537,108 @@
     {
         "date": "2018-01-04",
         "gameType": "R",
-        "resultType": "TBD",
-        "homeTeam": "Boston Bruins",
-        "awayTeam": "Florida Panthers",
-        "homeGoals": 0,
-        "awayGoals": 0
-    },
-    {
-        "date": "2018-01-04",
-        "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "SO",
         "homeTeam": "Toronto Maple Leafs",
         "awayTeam": "San Jose Sharks",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 3,
+        "awayGoals": 2
     },
     {
         "date": "2018-01-04",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Philadelphia Flyers",
         "awayTeam": "New York Islanders",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 6,
+        "awayGoals": 4
     },
     {
         "date": "2018-01-04",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Pittsburgh Penguins",
         "awayTeam": "Carolina Hurricanes",
         "homeGoals": 0,
-        "awayGoals": 0
+        "awayGoals": 4
     },
     {
         "date": "2018-01-04",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "SO",
         "homeTeam": "Montr\u00e9al Canadiens",
         "awayTeam": "Tampa Bay Lightning",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 2,
+        "awayGoals": 1
     },
     {
         "date": "2018-01-04",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "St. Louis Blues",
         "awayTeam": "Vegas Golden Knights",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 2,
+        "awayGoals": 1
     },
     {
         "date": "2018-01-04",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Minnesota Wild",
         "awayTeam": "Buffalo Sabres",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 6,
+        "awayGoals": 2
     },
     {
         "date": "2018-01-04",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Dallas Stars",
         "awayTeam": "New Jersey Devils",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 4,
+        "awayGoals": 3
     },
     {
         "date": "2018-01-04",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Colorado Avalanche",
         "awayTeam": "Columbus Blue Jackets",
-        "homeGoals": 0,
+        "homeGoals": 2,
         "awayGoals": 0
     },
     {
         "date": "2018-01-04",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Calgary Flames",
         "awayTeam": "Los Angeles Kings",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 4,
+        "awayGoals": 3
     },
     {
         "date": "2018-01-04",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "SO",
         "homeTeam": "Edmonton Oilers",
         "awayTeam": "Anaheim Ducks",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 2,
+        "awayGoals": 1
+    },
+    {
+        "date": "2018-01-04",
+        "gameType": "R",
+        "resultType": "OT",
+        "homeTeam": "Arizona Coyotes",
+        "awayTeam": "Nashville Predators",
+        "homeGoals": 3,
+        "awayGoals": 2
     },
     {
         "date": "2018-01-04",
         "gameType": "R",
         "resultType": "TBD",
-        "homeTeam": "Arizona Coyotes",
-        "awayTeam": "Nashville Predators",
+        "homeTeam": "Boston Bruins",
+        "awayTeam": "Florida Panthers",
         "homeGoals": 0,
         "awayGoals": 0
     },
@@ -6105,8 +6105,8 @@
         "date": "2018-01-14",
         "gameType": "R",
         "resultType": "TBD",
-        "homeTeam": "Pittsburgh Penguins",
-        "awayTeam": "New York Rangers",
+        "homeTeam": "Chicago Blackhawks",
+        "awayTeam": "Detroit Red Wings",
         "homeGoals": 0,
         "awayGoals": 0
     },
@@ -6123,8 +6123,8 @@
         "date": "2018-01-14",
         "gameType": "R",
         "resultType": "TBD",
-        "homeTeam": "Chicago Blackhawks",
-        "awayTeam": "Detroit Red Wings",
+        "homeTeam": "Pittsburgh Penguins",
+        "awayTeam": "New York Rangers",
         "homeGoals": 0,
         "awayGoals": 0
     },
