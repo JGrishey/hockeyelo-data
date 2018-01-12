@@ -1,11 +1,35 @@
 {
-    "date": "2018-01-08",
+    "date": "2018-01-12",
     "data": [
         {
-            "homeTeam": "Toronto Maple Leafs",
-            "awayTeam": "Columbus Blue Jackets",
-            "homeProb": 0.5037874790595801,
-            "awayProb": 0.4962125209404199
+            "homeTeam": "Columbus Blue Jackets",
+            "awayTeam": "Vancouver Canucks",
+            "homeProb": 0.6202180562539673,
+            "awayProb": 0.3797819437460327
+        },
+        {
+            "homeTeam": "Florida Panthers",
+            "awayTeam": "Calgary Flames",
+            "homeProb": 0.4625750698729086,
+            "awayProb": 0.5374249301270915
+        },
+        {
+            "homeTeam": "Carolina Hurricanes",
+            "awayTeam": "Washington Capitals",
+            "homeProb": 0.3912333204514815,
+            "awayProb": 0.6087666795485185
+        },
+        {
+            "homeTeam": "Chicago Blackhawks",
+            "awayTeam": "Winnipeg Jets",
+            "homeProb": 0.496616101319031,
+            "awayProb": 0.503383898680969
+        },
+        {
+            "homeTeam": "Arizona Coyotes",
+            "awayTeam": "Edmonton Oilers",
+            "homeProb": 0.376941893638343,
+            "awayProb": 0.6230581063616569
         }
     ]
 }
