@@ -1,17 +1,23 @@
 {
-    "date": "2018-01-17",
+    "date": "2018-01-19",
     "data": [
         {
-            "homeTeam": "Boston Bruins",
+            "homeTeam": "Florida Panthers",
+            "awayTeam": "Vegas Golden Knights",
+            "homeProb": 0.42836327934327617,
+            "awayProb": 0.5716367206567239
+        },
+        {
+            "homeTeam": "Washington Capitals",
             "awayTeam": "Montr\u00e9al Canadiens",
-            "homeProb": 0.6053413116551747,
-            "awayProb": 0.3946586883448253
+            "homeProb": 0.637055171018371,
+            "awayProb": 0.36294482898162905
         },
         {
             "homeTeam": "Anaheim Ducks",
-            "awayTeam": "Pittsburgh Penguins",
-            "homeProb": 0.4640404244728943,
-            "awayProb": 0.5359595755271057
+            "awayTeam": "Los Angeles Kings",
+            "homeProb": 0.5169426663736104,
+            "awayProb": 0.4830573336263896
         }
     ]
 }
