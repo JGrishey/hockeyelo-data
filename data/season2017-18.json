@@ -6329,29 +6329,29 @@
     {
         "date": "2018-01-19",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "OT",
         "homeTeam": "Florida Panthers",
         "awayTeam": "Vegas Golden Knights",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 4,
+        "awayGoals": 3
     },
     {
         "date": "2018-01-19",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Washington Capitals",
         "awayTeam": "Montr\u00e9al Canadiens",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 2,
+        "awayGoals": 3
     },
     {
         "date": "2018-01-19",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Anaheim Ducks",
         "awayTeam": "Los Angeles Kings",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 2,
+        "awayGoals": 1
     },
     {
         "date": "2018-01-20",
