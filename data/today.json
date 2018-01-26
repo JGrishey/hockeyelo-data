@@ -1,17 +1,4 @@
 {
-    "date": "2018-01-24",
-    "data": [
-        {
-            "homeTeam": "Chicago Blackhawks",
-            "awayTeam": "Toronto Maple Leafs",
-            "homeProb": 0.5125547186414774,
-            "awayProb": 0.4874452813585226
-        },
-        {
-            "homeTeam": "Calgary Flames",
-            "awayTeam": "Los Angeles Kings",
-            "homeProb": 0.4931113767883328,
-            "awayProb": 0.5068886232116672
-        }
-    ]
+    "date": "2018-01-26",
+    "data": []
 }
