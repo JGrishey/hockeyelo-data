@@ -23,27 +23,27 @@ def getGames (dfrom, dto):
     games = []
     for date in dates:
         for game in date['games']:
-            print(game)
-            if game['status']['detailedState'] != "Scheduled" and game['status']['detailedState'] != "Postponed":
-                linescore = game['linescore']
-                gameType = game['gameType']
-                endPeriod = linescore['currentPeriodOrdinal']
-                if "name" in linescore['teams']['home']['team']:
-                    homeTeam = linescore['teams']['home']['team']['name']
+            if game['gameType'] != "A":
+                if game['status']['detailedState'] != "Scheduled" and game['status']['detailedState'] != "Postponed":
+                    linescore = game['linescore']
+                    gameType = game['gameType']
+                    endPeriod = linescore['currentPeriodOrdinal']
+                    if "name" in linescore['teams']['home']['team']:
+                        homeTeam = linescore['teams']['home']['team']['name']
+                    else:
+                        homeTeam = "Atlanta Thrashers" if linescore['teams']['home']['team']['id'] == 11 else ()
+                    homeGoals = linescore['teams']['home']['goals']
+                    if "name" in linescore['teams']['away']['team']:
+                        awayTeam = linescore['teams']['away']['team']['name']
+                    else:
+                        awayTeam = "Atlanta Thrashers" if linescore['teams']['away']['team']['id'] == 11 else ()
+                    awayGoals = linescore['teams']['away']['goals']
+                    games.append({'date': date['date'], 'gameType': gameType, 'resultType': "REG" if endPeriod == "3rd" else endPeriod,
+                                'homeTeam': homeTeam, 'awayTeam': awayTeam, 'homeGoals': homeGoals, 'awayGoals': awayGoals})
                 else:
-                    homeTeam = "Atlanta Thrashers" if linescore['teams']['home']['team']['id'] == 11 else ()
-                homeGoals = linescore['teams']['home']['goals']
-                if "name" in linescore['teams']['away']['team']:
-                    awayTeam = linescore['teams']['away']['team']['name']
-                else:
-                    awayTeam = "Atlanta Thrashers" if linescore['teams']['away']['team']['id'] == 11 else ()
-                awayGoals = linescore['teams']['away']['goals']
-                games.append({'date': date['date'], 'gameType': gameType, 'resultType': "REG" if endPeriod == "3rd" else endPeriod,
-                            'homeTeam': homeTeam, 'awayTeam': awayTeam, 'homeGoals': homeGoals, 'awayGoals': awayGoals})
-            else:
-                games.append({'date': date['date'], 'gameType': game['gameType'], 'resultType': "TBD",
-                            'homeTeam': game['teams']['home']['team']['name'], 'awayTeam': game['teams']['away']['team']['name'],
-                            'homeGoals': 0, 'awayGoals': 0})
+                    games.append({'date': date['date'], 'gameType': game['gameType'], 'resultType': "TBD",
+                                'homeTeam': game['teams']['home']['team']['name'], 'awayTeam': game['teams']['away']['team']['name'],
+                                'homeGoals': 0, 'awayGoals': 0})
     return games
 
 schedule = getGames(args.dfrom, args.dto)
