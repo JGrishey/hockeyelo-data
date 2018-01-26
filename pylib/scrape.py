@@ -23,7 +23,6 @@ def getGames (dfrom, dto):
     games = []
     for date in dates:
         for game in date['games']:
-            print(game)
             if game['status']['detailedState'] != "Scheduled" and game['status']['detailedState'] != "Postponed":
                 linescore = game['linescore']
                 gameType = game['gameType']
