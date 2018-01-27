@@ -16,6 +16,7 @@ from operator import itemgetter
 import copy
 from pathlib import Path
 import datetime
+from multiprocessing import Process
 
 # Read JSON file
 
@@ -2013,9 +2014,14 @@ def runSeason (teams, pastPO):
 
 blankData = copy.deepcopy(teamsData)
 
-for i in range(0, 100000):
-    runSeason(copy.deepcopy(blankData), copy.deepcopy(pastPO))
-    print(i)
+def p (i):
+    print("process {0} starting.".format(i))
+    for x in range(0, 25000):
+        print("{0}: run {1}".format(i, x))
+        runSeason(copy.deepcopy(blankData), copy.deepcopy(pastPO))
+
+for i in range(0, 4):
+    Process(target=p, args=(i,)).start()
 
 # Calculate average season.
 for team in teamsData:
