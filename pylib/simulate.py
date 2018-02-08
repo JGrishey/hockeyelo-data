@@ -2014,14 +2014,9 @@ def runSeason (teams, pastPO):
 
 blankData = copy.deepcopy(teamsData)
 
-def p (i):
-    print("process {0} starting.".format(i))
-    for x in range(0, 25000):
-        print("{0}: run {1}".format(i, x))
-        runSeason(copy.deepcopy(blankData), copy.deepcopy(pastPO))
-
-for i in range(0, 4):
-    Process(target=p, args=(i,)).start()
+for i in range(0, 100000):
+    print(str(i / 1000) + " %")
+    runSeason(copy.deepcopy(blankData), copy.deepcopy(pastPO))
 
 # Calculate average season.
 for team in teamsData:
