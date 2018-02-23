@@ -1,59 +1,35 @@
 {
-    "date": "2018-02-11",
+    "date": "2018-02-23",
     "data": [
         {
-            "homeTeam": "St. Louis Blues",
+            "homeTeam": "New York Rangers",
+            "awayTeam": "Minnesota Wild",
+            "homeProb": 0.41636349177916115,
+            "awayProb": 0.5836365082208388
+        },
+        {
+            "homeTeam": "Carolina Hurricanes",
             "awayTeam": "Pittsburgh Penguins",
-            "homeProb": 0.4627959737924908,
-            "awayProb": 0.5372040262075092
+            "homeProb": 0.3698898808500529,
+            "awayProb": 0.6301101191499471
         },
         {
-            "homeTeam": "Winnipeg Jets",
-            "awayTeam": "New York Rangers",
-            "homeProb": 0.5424543343791274,
-            "awayProb": 0.4575456656208726
+            "homeTeam": "St. Louis Blues",
+            "awayTeam": "Winnipeg Jets",
+            "homeProb": 0.47991657032004686,
+            "awayProb": 0.5200834296799531
         },
         {
-            "homeTeam": "Washington Capitals",
-            "awayTeam": "Detroit Red Wings",
-            "homeProb": 0.6455518842672566,
-            "awayProb": 0.3544481157327434
-        },
-        {
-            "homeTeam": "Dallas Stars",
-            "awayTeam": "Vancouver Canucks",
-            "homeProb": 0.6409397323681693,
-            "awayProb": 0.35906026763183074
-        },
-        {
-            "homeTeam": "Buffalo Sabres",
-            "awayTeam": "Colorado Avalanche",
-            "homeProb": 0.4493588151906308,
-            "awayProb": 0.5506411848093692
-        },
-        {
-            "homeTeam": "New Jersey Devils",
-            "awayTeam": "Boston Bruins",
-            "homeProb": 0.35753097466267253,
-            "awayProb": 0.6424690253373275
-        },
-        {
-            "homeTeam": "New York Islanders",
-            "awayTeam": "Calgary Flames",
-            "homeProb": 0.4801988679156985,
-            "awayProb": 0.5198011320843015
+            "homeTeam": "Chicago Blackhawks",
+            "awayTeam": "San Jose Sharks",
+            "homeProb": 0.456447654999194,
+            "awayProb": 0.543552345000806
         },
         {
             "homeTeam": "Vegas Golden Knights",
-            "awayTeam": "Philadelphia Flyers",
-            "homeProb": 0.5345035011542225,
-            "awayProb": 0.4654964988457775
-        },
-        {
-            "homeTeam": "Anaheim Ducks",
-            "awayTeam": "San Jose Sharks",
-            "homeProb": 0.5025936428766924,
-            "awayProb": 0.4974063571233076
+            "awayTeam": "Vancouver Canucks",
+            "homeProb": 0.6513271617975668,
+            "awayProb": 0.3486728382024332
         }
     ]
 }
