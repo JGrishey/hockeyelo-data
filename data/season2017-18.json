@@ -8786,47 +8786,47 @@
     {
         "date": "2018-02-28",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Montr\u00e9al Canadiens",
         "awayTeam": "New York Islanders",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 3,
+        "awayGoals": 1
     },
     {
         "date": "2018-02-28",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "OT",
         "homeTeam": "Tampa Bay Lightning",
         "awayTeam": "Buffalo Sabres",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 1,
+        "awayGoals": 2
     },
     {
         "date": "2018-02-28",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "St. Louis Blues",
         "awayTeam": "Detroit Red Wings",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 2,
+        "awayGoals": 1
     },
     {
         "date": "2018-02-28",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Colorado Avalanche",
         "awayTeam": "Calgary Flames",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 5,
+        "awayGoals": 2
     },
     {
         "date": "2018-02-28",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "OT",
         "homeTeam": "Vancouver Canucks",
         "awayTeam": "New York Rangers",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 5,
+        "awayGoals": 6
     },
     {
         "date": "2018-03-01",
