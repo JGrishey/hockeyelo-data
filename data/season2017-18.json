@@ -8831,74 +8831,74 @@
     {
         "date": "2018-03-01",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Boston Bruins",
         "awayTeam": "Pittsburgh Penguins",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 8,
+        "awayGoals": 4
     },
     {
         "date": "2018-03-01",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Philadelphia Flyers",
         "awayTeam": "Carolina Hurricanes",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 1,
+        "awayGoals": 4
     },
     {
         "date": "2018-03-01",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Florida Panthers",
         "awayTeam": "New Jersey Devils",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 3,
+        "awayGoals": 2
     },
     {
         "date": "2018-03-01",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "OT",
         "homeTeam": "Dallas Stars",
         "awayTeam": "Tampa Bay Lightning",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 4,
+        "awayGoals": 5
     },
     {
         "date": "2018-03-01",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Edmonton Oilers",
         "awayTeam": "Nashville Predators",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 2,
+        "awayGoals": 4
     },
     {
         "date": "2018-03-01",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Arizona Coyotes",
         "awayTeam": "Minnesota Wild",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 5,
+        "awayGoals": 3
     },
     {
         "date": "2018-03-01",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "San Jose Sharks",
         "awayTeam": "Chicago Blackhawks",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 7,
+        "awayGoals": 2
     },
     {
         "date": "2018-03-01",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Los Angeles Kings",
         "awayTeam": "Columbus Blue Jackets",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 5,
+        "awayGoals": 2
     },
     {
         "date": "2018-03-02",
