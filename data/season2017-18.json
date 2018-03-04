@@ -8984,74 +8984,74 @@
     {
         "date": "2018-03-03",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "SO",
         "homeTeam": "Tampa Bay Lightning",
         "awayTeam": "Philadelphia Flyers",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 7,
+        "awayGoals": 6
     },
     {
         "date": "2018-03-03",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "OT",
         "homeTeam": "Dallas Stars",
         "awayTeam": "St. Louis Blues",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 3,
+        "awayGoals": 2
     },
     {
         "date": "2018-03-03",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Los Angeles Kings",
         "awayTeam": "Chicago Blackhawks",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 3,
+        "awayGoals": 5
     },
     {
         "date": "2018-03-03",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "OT",
         "homeTeam": "Boston Bruins",
         "awayTeam": "Montr\u00e9al Canadiens",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 2,
+        "awayGoals": 1
     },
     {
         "date": "2018-03-03",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "OT",
         "homeTeam": "Pittsburgh Penguins",
         "awayTeam": "New York Islanders",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 3,
+        "awayGoals": 2
     },
     {
         "date": "2018-03-03",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Arizona Coyotes",
         "awayTeam": "Ottawa Senators",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 2,
+        "awayGoals": 1
     },
     {
         "date": "2018-03-03",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Washington Capitals",
         "awayTeam": "Toronto Maple Leafs",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 5,
+        "awayGoals": 2
     },
     {
         "date": "2018-03-03",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Edmonton Oilers",
         "awayTeam": "New York Rangers",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 2,
+        "awayGoals": 3
     },
     {
         "date": "2018-03-04",
