@@ -9245,29 +9245,29 @@
     {
         "date": "2018-03-07",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Buffalo Sabres",
         "awayTeam": "Calgary Flames",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 1,
+        "awayGoals": 5
     },
     {
         "date": "2018-03-07",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Philadelphia Flyers",
         "awayTeam": "Pittsburgh Penguins",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 2,
+        "awayGoals": 5
     },
     {
         "date": "2018-03-07",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Vancouver Canucks",
         "awayTeam": "Arizona Coyotes",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 1,
+        "awayGoals": 2
     },
     {
         "date": "2018-03-08",
