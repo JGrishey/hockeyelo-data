@@ -1,53 +1,35 @@
 {
-    "date": "2018-03-18",
+    "date": "2018-03-19",
     "data": [
         {
-            "homeTeam": "Colorado Avalanche",
-            "awayTeam": "Detroit Red Wings",
-            "homeProb": 0.5459735729183202,
-            "awayProb": 0.45402642708167984
+            "homeTeam": "Boston Bruins",
+            "awayTeam": "Columbus Blue Jackets",
+            "homeProb": 0.5830184511881443,
+            "awayProb": 0.4169815488118557
         },
         {
-            "homeTeam": "Vegas Golden Knights",
+            "homeTeam": "Buffalo Sabres",
+            "awayTeam": "Nashville Predators",
+            "homeProb": 0.27362266148899267,
+            "awayProb": 0.7263773385110073
+        },
+        {
+            "homeTeam": "Montr\u00e9al Canadiens",
+            "awayTeam": "Florida Panthers",
+            "homeProb": 0.44219879569401066,
+            "awayProb": 0.5578012043059893
+        },
+        {
+            "homeTeam": "Minnesota Wild",
+            "awayTeam": "Los Angeles Kings",
+            "homeProb": 0.5404305674099501,
+            "awayProb": 0.4595694325900499
+        },
+        {
+            "homeTeam": "Arizona Coyotes",
             "awayTeam": "Calgary Flames",
-            "homeProb": 0.553607669054385,
-            "awayProb": 0.44639233094561503
-        },
-        {
-            "homeTeam": "Tampa Bay Lightning",
-            "awayTeam": "Edmonton Oilers",
-            "homeProb": 0.615932332776137,
-            "awayProb": 0.384067667223863
-        },
-        {
-            "homeTeam": "New York Islanders",
-            "awayTeam": "Carolina Hurricanes",
-            "homeProb": 0.5058265200408129,
-            "awayProb": 0.49417347995918715
-        },
-        {
-            "homeTeam": "Philadelphia Flyers",
-            "awayTeam": "Washington Capitals",
-            "homeProb": 0.4224847355716839,
-            "awayProb": 0.5775152644283161
-        },
-        {
-            "homeTeam": "Chicago Blackhawks",
-            "awayTeam": "St. Louis Blues",
-            "homeProb": 0.45993924324865204,
-            "awayProb": 0.540060756751348
-        },
-        {
-            "homeTeam": "Winnipeg Jets",
-            "awayTeam": "Dallas Stars",
-            "homeProb": 0.5620871042646504,
-            "awayProb": 0.43791289573534964
-        },
-        {
-            "homeTeam": "Anaheim Ducks",
-            "awayTeam": "New Jersey Devils",
-            "homeProb": 0.5795853700227062,
-            "awayProb": 0.42041462997729384
+            "homeProb": 0.40656623040446627,
+            "awayProb": 0.5934337695955337
         }
     ]
 }
