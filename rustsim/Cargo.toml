@@ -1,0 +1,8 @@
+[package]
+name = "rustsim"
+version = "0.1.0"
+authors = ["Jacob Grishey <jgrishey@dineoutwith.us>"]
+
+[dependencies]
+serde_json = "1.0"
+reqwest = "0.8.5"

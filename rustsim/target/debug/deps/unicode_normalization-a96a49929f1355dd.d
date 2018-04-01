@@ -1,0 +1,9 @@
+/Users/jgrishey/Workspace/hockeyelo-data/rustsim/target/debug/deps/libunicode_normalization-a96a49929f1355dd.rlib: /Users/jgrishey/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.5/src/lib.rs /Users/jgrishey/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.5/src/decompose.rs /Users/jgrishey/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.5/src/normalize.rs /Users/jgrishey/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.5/src/recompose.rs /Users/jgrishey/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.5/src/tables.rs
+
+/Users/jgrishey/Workspace/hockeyelo-data/rustsim/target/debug/deps/unicode_normalization-a96a49929f1355dd.d: /Users/jgrishey/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.5/src/lib.rs /Users/jgrishey/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.5/src/decompose.rs /Users/jgrishey/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.5/src/normalize.rs /Users/jgrishey/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.5/src/recompose.rs /Users/jgrishey/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.5/src/tables.rs
+
+/Users/jgrishey/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.5/src/lib.rs:
+/Users/jgrishey/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.5/src/decompose.rs:
+/Users/jgrishey/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.5/src/normalize.rs:
+/Users/jgrishey/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.5/src/recompose.rs:
+/Users/jgrishey/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.5/src/tables.rs:
