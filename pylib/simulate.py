@@ -236,13 +236,18 @@ def runSeason (teams, pastPO):
             # Get series data
             series = next(item for item in roundSeries if item['home'] == game['homeTeam'] or item['home'] == game['awayTeam'])
 
+            homeCorrect = series['home'] == game['homeTeam']
+
             # For scheduling purposes
             previousLow = min(series['hWins'], series['aWins'])
 
             # Simulate game
             if decideOT <= 0.233:
                 if decideWin <= eA:
-                    series['hWins'] += 1
+                    if homeCorrect:
+                        series['hWins'] += 1
+                    else:
+                        series['aWins'] += 1
                     if min([series['hWins'], series['aWins']]) > previousLow:
                         roundGames.append({
                             'homeTeam': game['homeTeam'],
@@ -251,7 +256,10 @@ def runSeason (teams, pastPO):
                     sA = 1.0
                     sB = 0.5
                 else:
-                    series['aWins'] += 1
+                    if homeCorrect:
+                        series['aWins'] += 1
+                    else:
+                        series['hWins'] += 1
                     if min([series['hWins'], series['aWins']]) > previousLow:
                         roundGames.append({
                             'homeTeam': game['homeTeam'],
@@ -261,7 +269,10 @@ def runSeason (teams, pastPO):
                     sB = 1.0
             else:
                 if decideWin <= eA:
-                    series['hWins'] += 1
+                    if homeCorrect:
+                        series['hWins'] += 1
+                    else:
+                        series['aWins'] += 1
                     if min([series['hWins'], series['aWins']]) > previousLow:
                         roundGames.append({
                             'homeTeam': game['homeTeam'],
@@ -270,7 +281,10 @@ def runSeason (teams, pastPO):
                     sA = 1.0
                     sB = 0.0
                 else:
-                    series['aWins'] += 1
+                    if homeCorrect:
+                        series['aWins'] += 1
+                    else:
+                        series['hWins'] += 1
                     if min([series['hWins'], series['aWins']]) > previousLow:
                         roundGames.append({
                             'homeTeam': game['homeTeam'],
