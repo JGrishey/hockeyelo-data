@@ -1,35 +1,41 @@
 {
-    "date": "2018-04-01",
+    "date": "2018-04-02",
     "data": [
         {
-            "homeTeam": "Philadelphia Flyers",
-            "awayTeam": "Boston Bruins",
-            "homeProb": 0.40253235223239225,
-            "awayProb": 0.5974676477676077
+            "homeTeam": "Toronto Maple Leafs",
+            "awayTeam": "Buffalo Sabres",
+            "homeProb": 0.6852098120232439,
+            "awayProb": 0.31479018797675606
         },
         {
-            "homeTeam": "Tampa Bay Lightning",
-            "awayTeam": "Nashville Predators",
-            "homeProb": 0.4636895860176573,
-            "awayProb": 0.5363104139823427
+            "homeTeam": "Ottawa Senators",
+            "awayTeam": "Winnipeg Jets",
+            "homeProb": 0.3342706262218796,
+            "awayProb": 0.6657293737781205
         },
         {
-            "homeTeam": "Montr\u00e9al Canadiens",
-            "awayTeam": "New Jersey Devils",
-            "homeProb": 0.457079769146593,
-            "awayProb": 0.542920230853407
+            "homeTeam": "Florida Panthers",
+            "awayTeam": "Carolina Hurricanes",
+            "homeProb": 0.5366566897860666,
+            "awayProb": 0.4633433102139334
         },
         {
-            "homeTeam": "Pittsburgh Penguins",
+            "homeTeam": "St. Louis Blues",
             "awayTeam": "Washington Capitals",
-            "homeProb": 0.5119170804209358,
-            "awayProb": 0.48808291957906424
+            "homeProb": 0.4312574972270924,
+            "awayProb": 0.5687425027729076
         },
         {
-            "homeTeam": "Anaheim Ducks",
+            "homeTeam": "Minnesota Wild",
+            "awayTeam": "Edmonton Oilers",
+            "homeProb": 0.5940763802374162,
+            "awayProb": 0.40592361976258384
+        },
+        {
+            "homeTeam": "Los Angeles Kings",
             "awayTeam": "Colorado Avalanche",
-            "homeProb": 0.5792906820508665,
-            "awayProb": 0.42070931794913347
+            "homeProb": 0.5580480949222749,
+            "awayProb": 0.4419519050777251
         }
     ]
 }
