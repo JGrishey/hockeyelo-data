@@ -392,7 +392,7 @@ def runSeason (teams, pastPO):
         firstRoundGames = []
 
         for division in [atlanticPlayoffs, centralPlayoffs, metroPlayoffs, pacificPlayoffs]:
-            for i in range(0, 3):
+            for i in range(0, 2):
                 firstRoundSeries.append({
                     'home': division[i]['name'],
                     'away': division[3-i]['name'],
