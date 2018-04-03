@@ -10991,56 +10991,56 @@
     {
         "date": "2018-04-02",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Toronto Maple Leafs",
         "awayTeam": "Buffalo Sabres",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 5,
+        "awayGoals": 2
     },
     {
         "date": "2018-04-02",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Ottawa Senators",
         "awayTeam": "Winnipeg Jets",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 5,
+        "awayGoals": 6
     },
     {
         "date": "2018-04-02",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Florida Panthers",
         "awayTeam": "Carolina Hurricanes",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 3,
+        "awayGoals": 2
     },
     {
         "date": "2018-04-02",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "St. Louis Blues",
         "awayTeam": "Washington Capitals",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 2,
+        "awayGoals": 4
     },
     {
         "date": "2018-04-02",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Minnesota Wild",
         "awayTeam": "Edmonton Oilers",
-        "homeGoals": 0,
+        "homeGoals": 3,
         "awayGoals": 0
     },
     {
         "date": "2018-04-02",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Los Angeles Kings",
         "awayTeam": "Colorado Avalanche",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 3,
+        "awayGoals": 1
     },
     {
         "date": "2018-04-03",
