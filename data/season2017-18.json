@@ -11261,38 +11261,38 @@
     {
         "date": "2018-04-06",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Pittsburgh Penguins",
         "awayTeam": "Ottawa Senators",
-        "homeGoals": 0,
+        "homeGoals": 4,
         "awayGoals": 0
     },
     {
         "date": "2018-04-06",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Tampa Bay Lightning",
         "awayTeam": "Buffalo Sabres",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 7,
+        "awayGoals": 5
     },
     {
         "date": "2018-04-06",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Chicago Blackhawks",
         "awayTeam": "St. Louis Blues",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 1,
+        "awayGoals": 4
     },
     {
         "date": "2018-04-06",
         "gameType": "R",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Anaheim Ducks",
         "awayTeam": "Dallas Stars",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 5,
+        "awayGoals": 3
     },
     {
         "date": "2018-04-07",

@@ -1,29 +1,95 @@
 {
-    "date": "2018-04-06",
+    "date": "2018-04-07",
     "data": [
         {
-            "homeTeam": "Pittsburgh Penguins",
+            "homeTeam": "Philadelphia Flyers",
+            "awayTeam": "New York Rangers",
+            "homeProb": 0.5616716801617104,
+            "awayProb": 0.43832831983828957
+        },
+        {
+            "homeTeam": "Winnipeg Jets",
+            "awayTeam": "Chicago Blackhawks",
+            "homeProb": 0.627173844922157,
+            "awayProb": 0.372826155077843
+        },
+        {
+            "homeTeam": "Boston Bruins",
             "awayTeam": "Ottawa Senators",
-            "homeProb": 0.6714892860113145,
-            "awayProb": 0.3285107139886855
+            "homeProb": 0.6862539931089287,
+            "awayProb": 0.31374600689107135
         },
         {
-            "homeTeam": "Tampa Bay Lightning",
+            "homeTeam": "Toronto Maple Leafs",
+            "awayTeam": "Montr\u00e9al Canadiens",
+            "homeProb": 0.6279965055777177,
+            "awayProb": 0.3720034944222823
+        },
+        {
+            "homeTeam": "Detroit Red Wings",
+            "awayTeam": "New York Islanders",
+            "homeProb": 0.4756555294694512,
+            "awayProb": 0.5243444705305488
+        },
+        {
+            "homeTeam": "Florida Panthers",
             "awayTeam": "Buffalo Sabres",
-            "homeProb": 0.7122316809912146,
-            "awayProb": 0.2877683190087854
+            "homeProb": 0.6438033779290108,
+            "awayProb": 0.35619662207098923
         },
         {
-            "homeTeam": "Chicago Blackhawks",
+            "homeTeam": "Washington Capitals",
+            "awayTeam": "New Jersey Devils",
+            "homeProb": 0.5998491246787108,
+            "awayProb": 0.40015087532128923
+        },
+        {
+            "homeTeam": "Carolina Hurricanes",
+            "awayTeam": "Tampa Bay Lightning",
+            "homeProb": 0.36700779649341014,
+            "awayProb": 0.6329922035065898
+        },
+        {
+            "homeTeam": "Nashville Predators",
+            "awayTeam": "Columbus Blue Jackets",
+            "homeProb": 0.5815479300127158,
+            "awayProb": 0.41845206998728424
+        },
+        {
+            "homeTeam": "Arizona Coyotes",
+            "awayTeam": "Anaheim Ducks",
+            "homeProb": 0.3376547728117546,
+            "awayProb": 0.6623452271882454
+        },
+        {
+            "homeTeam": "Colorado Avalanche",
             "awayTeam": "St. Louis Blues",
-            "homeProb": 0.45205301924725577,
-            "awayProb": 0.5479469807527442
+            "homeProb": 0.4532414248216243,
+            "awayProb": 0.5467585751783757
         },
         {
-            "homeTeam": "Anaheim Ducks",
+            "homeTeam": "Calgary Flames",
+            "awayTeam": "Vegas Golden Knights",
+            "homeProb": 0.38715227657981977,
+            "awayProb": 0.6128477234201802
+        },
+        {
+            "homeTeam": "Edmonton Oilers",
+            "awayTeam": "Vancouver Canucks",
+            "homeProb": 0.5760805244399892,
+            "awayProb": 0.42391947556001075
+        },
+        {
+            "homeTeam": "Los Angeles Kings",
             "awayTeam": "Dallas Stars",
-            "homeProb": 0.5707305242946595,
-            "awayProb": 0.42926947570534046
+            "homeProb": 0.5539574026215499,
+            "awayProb": 0.4460425973784501
+        },
+        {
+            "homeTeam": "San Jose Sharks",
+            "awayTeam": "Minnesota Wild",
+            "homeProb": 0.49160015428987475,
+            "awayProb": 0.5083998457101253
         }
     ]
 }
