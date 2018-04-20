@@ -11428,5 +11428,464 @@
         "awayTeam": "Minnesota Wild",
         "homeGoals": 3,
         "awayGoals": 6
+    },
+    {
+        "date": "2018-04-08",
+        "gameType": "R",
+        "resultType": "REG",
+        "homeTeam": "Boston Bruins",
+        "awayTeam": "Florida Panthers",
+        "homeGoals": 2,
+        "awayGoals": 4
+    },
+    {
+        "date": "2018-04-11",
+        "gameType": "P",
+        "resultType": "REG",
+        "homeTeam": "Winnipeg Jets",
+        "awayTeam": "Minnesota Wild",
+        "homeGoals": 3,
+        "awayGoals": 2
+    },
+    {
+        "date": "2018-04-11",
+        "gameType": "P",
+        "resultType": "REG",
+        "homeTeam": "Pittsburgh Penguins",
+        "awayTeam": "Philadelphia Flyers",
+        "homeGoals": 7,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-04-11",
+        "gameType": "P",
+        "resultType": "REG",
+        "homeTeam": "Vegas Golden Knights",
+        "awayTeam": "Los Angeles Kings",
+        "homeGoals": 1,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-04-12",
+        "gameType": "P",
+        "resultType": "REG",
+        "homeTeam": "Tampa Bay Lightning",
+        "awayTeam": "New Jersey Devils",
+        "homeGoals": 5,
+        "awayGoals": 2
+    },
+    {
+        "date": "2018-04-12",
+        "gameType": "P",
+        "resultType": "REG",
+        "homeTeam": "Boston Bruins",
+        "awayTeam": "Toronto Maple Leafs",
+        "homeGoals": 5,
+        "awayGoals": 1
+    },
+    {
+        "date": "2018-04-12",
+        "gameType": "P",
+        "resultType": "OT",
+        "homeTeam": "Washington Capitals",
+        "awayTeam": "Columbus Blue Jackets",
+        "homeGoals": 3,
+        "awayGoals": 4
+    },
+    {
+        "date": "2018-04-12",
+        "gameType": "P",
+        "resultType": "REG",
+        "homeTeam": "Nashville Predators",
+        "awayTeam": "Colorado Avalanche",
+        "homeGoals": 5,
+        "awayGoals": 2
+    },
+    {
+        "date": "2018-04-12",
+        "gameType": "P",
+        "resultType": "REG",
+        "homeTeam": "Anaheim Ducks",
+        "awayTeam": "San Jose Sharks",
+        "homeGoals": 0,
+        "awayGoals": 3
+    },
+    {
+        "date": "2018-04-13",
+        "gameType": "P",
+        "resultType": "REG",
+        "homeTeam": "Pittsburgh Penguins",
+        "awayTeam": "Philadelphia Flyers",
+        "homeGoals": 1,
+        "awayGoals": 5
+    },
+    {
+        "date": "2018-04-13",
+        "gameType": "P",
+        "resultType": "REG",
+        "homeTeam": "Winnipeg Jets",
+        "awayTeam": "Minnesota Wild",
+        "homeGoals": 4,
+        "awayGoals": 1
+    },
+    {
+        "date": "2018-04-13",
+        "gameType": "P",
+        "resultType": "2OT",
+        "homeTeam": "Vegas Golden Knights",
+        "awayTeam": "Los Angeles Kings",
+        "homeGoals": 2,
+        "awayGoals": 1
+    },
+    {
+        "date": "2018-04-14",
+        "gameType": "P",
+        "resultType": "REG",
+        "homeTeam": "Nashville Predators",
+        "awayTeam": "Colorado Avalanche",
+        "homeGoals": 5,
+        "awayGoals": 4
+    },
+    {
+        "date": "2018-04-14",
+        "gameType": "P",
+        "resultType": "REG",
+        "homeTeam": "Tampa Bay Lightning",
+        "awayTeam": "New Jersey Devils",
+        "homeGoals": 5,
+        "awayGoals": 3
+    },
+    {
+        "date": "2018-04-14",
+        "gameType": "P",
+        "resultType": "REG",
+        "homeTeam": "Boston Bruins",
+        "awayTeam": "Toronto Maple Leafs",
+        "homeGoals": 7,
+        "awayGoals": 3
+    },
+    {
+        "date": "2018-04-14",
+        "gameType": "P",
+        "resultType": "REG",
+        "homeTeam": "Anaheim Ducks",
+        "awayTeam": "San Jose Sharks",
+        "homeGoals": 2,
+        "awayGoals": 3
+    },
+    {
+        "date": "2018-04-15",
+        "gameType": "P",
+        "resultType": "REG",
+        "homeTeam": "Philadelphia Flyers",
+        "awayTeam": "Pittsburgh Penguins",
+        "homeGoals": 1,
+        "awayGoals": 5
+    },
+    {
+        "date": "2018-04-15",
+        "gameType": "P",
+        "resultType": "REG",
+        "homeTeam": "Minnesota Wild",
+        "awayTeam": "Winnipeg Jets",
+        "homeGoals": 6,
+        "awayGoals": 2
+    },
+    {
+        "date": "2018-04-15",
+        "gameType": "P",
+        "resultType": "OT",
+        "homeTeam": "Washington Capitals",
+        "awayTeam": "Columbus Blue Jackets",
+        "homeGoals": 4,
+        "awayGoals": 5
+    },
+    {
+        "date": "2018-04-15",
+        "gameType": "P",
+        "resultType": "REG",
+        "homeTeam": "Los Angeles Kings",
+        "awayTeam": "Vegas Golden Knights",
+        "homeGoals": 2,
+        "awayGoals": 3
+    },
+    {
+        "date": "2018-04-16",
+        "gameType": "P",
+        "resultType": "REG",
+        "homeTeam": "Toronto Maple Leafs",
+        "awayTeam": "Boston Bruins",
+        "homeGoals": 4,
+        "awayGoals": 2
+    },
+    {
+        "date": "2018-04-16",
+        "gameType": "P",
+        "resultType": "REG",
+        "homeTeam": "New Jersey Devils",
+        "awayTeam": "Tampa Bay Lightning",
+        "homeGoals": 5,
+        "awayGoals": 2
+    },
+    {
+        "date": "2018-04-16",
+        "gameType": "P",
+        "resultType": "REG",
+        "homeTeam": "Colorado Avalanche",
+        "awayTeam": "Nashville Predators",
+        "homeGoals": 5,
+        "awayGoals": 3
+    },
+    {
+        "date": "2018-04-16",
+        "gameType": "P",
+        "resultType": "REG",
+        "homeTeam": "San Jose Sharks",
+        "awayTeam": "Anaheim Ducks",
+        "homeGoals": 8,
+        "awayGoals": 1
+    },
+    {
+        "date": "2018-04-17",
+        "gameType": "P",
+        "resultType": "2OT",
+        "homeTeam": "Columbus Blue Jackets",
+        "awayTeam": "Washington Capitals",
+        "homeGoals": 2,
+        "awayGoals": 3
+    },
+    {
+        "date": "2018-04-17",
+        "gameType": "P",
+        "resultType": "REG",
+        "homeTeam": "Minnesota Wild",
+        "awayTeam": "Winnipeg Jets",
+        "homeGoals": 0,
+        "awayGoals": 2
+    },
+    {
+        "date": "2018-04-17",
+        "gameType": "P",
+        "resultType": "REG",
+        "homeTeam": "Los Angeles Kings",
+        "awayTeam": "Vegas Golden Knights",
+        "homeGoals": 0,
+        "awayGoals": 1
+    },
+    {
+        "date": "2018-04-18",
+        "gameType": "P",
+        "resultType": "REG",
+        "homeTeam": "Philadelphia Flyers",
+        "awayTeam": "Pittsburgh Penguins",
+        "homeGoals": 0,
+        "awayGoals": 5
+    },
+    {
+        "date": "2018-04-18",
+        "gameType": "P",
+        "resultType": "REG",
+        "homeTeam": "New Jersey Devils",
+        "awayTeam": "Tampa Bay Lightning",
+        "homeGoals": 1,
+        "awayGoals": 3
+    },
+    {
+        "date": "2018-04-18",
+        "gameType": "P",
+        "resultType": "REG",
+        "homeTeam": "Colorado Avalanche",
+        "awayTeam": "Nashville Predators",
+        "homeGoals": 2,
+        "awayGoals": 3
+    },
+    {
+        "date": "2018-04-18",
+        "gameType": "P",
+        "resultType": "REG",
+        "homeTeam": "San Jose Sharks",
+        "awayTeam": "Anaheim Ducks",
+        "homeGoals": 2,
+        "awayGoals": 1
+    },
+    {
+        "date": "2018-04-19",
+        "gameType": "P",
+        "resultType": "REG",
+        "homeTeam": "Toronto Maple Leafs",
+        "awayTeam": "Boston Bruins",
+        "homeGoals": 1,
+        "awayGoals": 3
+    },
+    {
+        "date": "2018-04-19",
+        "gameType": "P",
+        "resultType": "REG",
+        "homeTeam": "Columbus Blue Jackets",
+        "awayTeam": "Washington Capitals",
+        "homeGoals": 1,
+        "awayGoals": 4
+    },
+    {
+        "date": "2018-04-20",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Pittsburgh Penguins",
+        "awayTeam": "Philadelphia Flyers",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-04-20",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Winnipeg Jets",
+        "awayTeam": "Minnesota Wild",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-04-20",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Nashville Predators",
+        "awayTeam": "Colorado Avalanche",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-04-21",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Tampa Bay Lightning",
+        "awayTeam": "New Jersey Devils",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-04-21",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Washington Capitals",
+        "awayTeam": "Columbus Blue Jackets",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-04-21",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Boston Bruins",
+        "awayTeam": "Toronto Maple Leafs",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-04-22",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Philadelphia Flyers",
+        "awayTeam": "Pittsburgh Penguins",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-04-22",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Colorado Avalanche",
+        "awayTeam": "Nashville Predators",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-04-22",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Minnesota Wild",
+        "awayTeam": "Winnipeg Jets",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-04-23",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "New Jersey Devils",
+        "awayTeam": "Tampa Bay Lightning",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-04-23",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Toronto Maple Leafs",
+        "awayTeam": "Boston Bruins",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-04-23",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Columbus Blue Jackets",
+        "awayTeam": "Washington Capitals",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-04-24",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Pittsburgh Penguins",
+        "awayTeam": "Philadelphia Flyers",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-04-24",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Nashville Predators",
+        "awayTeam": "Colorado Avalanche",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-04-25",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Tampa Bay Lightning",
+        "awayTeam": "New Jersey Devils",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-04-25",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Boston Bruins",
+        "awayTeam": "Toronto Maple Leafs",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-04-25",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Washington Capitals",
+        "awayTeam": "Columbus Blue Jackets",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-04-25",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Winnipeg Jets",
+        "awayTeam": "Minnesota Wild",
+        "homeGoals": 0,
+        "awayGoals": 0
     }
 ]

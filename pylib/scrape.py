@@ -24,7 +24,7 @@ def getGames (dfrom, dto):
     for date in dates:
         for game in date['games']:
             if game['gameType'] != "A":
-                if game['status']['detailedState'] != "Scheduled" and game['status']['detailedState'] != "Postponed":
+                if game['status']['detailedState'][:9] != "Scheduled" and game['status']['detailedState'] != "Postponed":
                     linescore = game['linescore']
                     gameType = game['gameType']
                     endPeriod = linescore['currentPeriodOrdinal']
