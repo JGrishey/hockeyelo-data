@@ -11729,29 +11729,29 @@
     {
         "date": "2018-04-20",
         "gameType": "P",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Pittsburgh Penguins",
         "awayTeam": "Philadelphia Flyers",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 2,
+        "awayGoals": 4
     },
     {
         "date": "2018-04-20",
         "gameType": "P",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Winnipeg Jets",
         "awayTeam": "Minnesota Wild",
-        "homeGoals": 0,
+        "homeGoals": 5,
         "awayGoals": 0
     },
     {
         "date": "2018-04-20",
         "gameType": "P",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Nashville Predators",
         "awayTeam": "Colorado Avalanche",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 1,
+        "awayGoals": 2
     },
     {
         "date": "2018-04-21",
@@ -11795,15 +11795,6 @@
         "resultType": "TBD",
         "homeTeam": "Colorado Avalanche",
         "awayTeam": "Nashville Predators",
-        "homeGoals": 0,
-        "awayGoals": 0
-    },
-    {
-        "date": "2018-04-22",
-        "gameType": "P",
-        "resultType": "TBD",
-        "homeTeam": "Minnesota Wild",
-        "awayTeam": "Winnipeg Jets",
         "homeGoals": 0,
         "awayGoals": 0
     },
@@ -11876,15 +11867,6 @@
         "resultType": "TBD",
         "homeTeam": "Washington Capitals",
         "awayTeam": "Columbus Blue Jackets",
-        "homeGoals": 0,
-        "awayGoals": 0
-    },
-    {
-        "date": "2018-04-25",
-        "gameType": "P",
-        "resultType": "TBD",
-        "homeTeam": "Winnipeg Jets",
-        "awayTeam": "Minnesota Wild",
         "homeGoals": 0,
         "awayGoals": 0
     }
