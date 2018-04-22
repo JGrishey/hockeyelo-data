@@ -11756,29 +11756,29 @@
     {
         "date": "2018-04-21",
         "gameType": "P",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Tampa Bay Lightning",
         "awayTeam": "New Jersey Devils",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 3,
+        "awayGoals": 1
     },
     {
         "date": "2018-04-21",
         "gameType": "P",
-        "resultType": "TBD",
+        "resultType": "OT",
         "homeTeam": "Washington Capitals",
         "awayTeam": "Columbus Blue Jackets",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 4,
+        "awayGoals": 3
     },
     {
         "date": "2018-04-21",
         "gameType": "P",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Boston Bruins",
         "awayTeam": "Toronto Maple Leafs",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 3,
+        "awayGoals": 4
     },
     {
         "date": "2018-04-22",
@@ -11795,15 +11795,6 @@
         "resultType": "TBD",
         "homeTeam": "Colorado Avalanche",
         "awayTeam": "Nashville Predators",
-        "homeGoals": 0,
-        "awayGoals": 0
-    },
-    {
-        "date": "2018-04-23",
-        "gameType": "P",
-        "resultType": "TBD",
-        "homeTeam": "New Jersey Devils",
-        "awayTeam": "Tampa Bay Lightning",
         "homeGoals": 0,
         "awayGoals": 0
     },
@@ -11840,15 +11831,6 @@
         "resultType": "TBD",
         "homeTeam": "Nashville Predators",
         "awayTeam": "Colorado Avalanche",
-        "homeGoals": 0,
-        "awayGoals": 0
-    },
-    {
-        "date": "2018-04-25",
-        "gameType": "P",
-        "resultType": "TBD",
-        "homeTeam": "Tampa Bay Lightning",
-        "awayTeam": "New Jersey Devils",
         "homeGoals": 0,
         "awayGoals": 0
     },
