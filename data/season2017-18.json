@@ -11801,20 +11801,20 @@
     {
         "date": "2018-04-23",
         "gameType": "P",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Toronto Maple Leafs",
         "awayTeam": "Boston Bruins",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 3,
+        "awayGoals": 1
     },
     {
         "date": "2018-04-23",
         "gameType": "P",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Columbus Blue Jackets",
         "awayTeam": "Washington Capitals",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 3,
+        "awayGoals": 6
     },
     {
         "date": "2018-04-25",
@@ -11822,15 +11822,6 @@
         "resultType": "TBD",
         "homeTeam": "Boston Bruins",
         "awayTeam": "Toronto Maple Leafs",
-        "homeGoals": 0,
-        "awayGoals": 0
-    },
-    {
-        "date": "2018-04-25",
-        "gameType": "P",
-        "resultType": "TBD",
-        "homeTeam": "Washington Capitals",
-        "awayTeam": "Columbus Blue Jackets",
         "homeGoals": 0,
         "awayGoals": 0
     }
