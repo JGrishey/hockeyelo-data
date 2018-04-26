@@ -11819,9 +11819,261 @@
     {
         "date": "2018-04-25",
         "gameType": "P",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Boston Bruins",
         "awayTeam": "Toronto Maple Leafs",
+        "homeGoals": 7,
+        "awayGoals": 4
+    },
+    {
+        "date": "2018-04-26",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Washington Capitals",
+        "awayTeam": "Pittsburgh Penguins",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-04-26",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Vegas Golden Knights",
+        "awayTeam": "San Jose Sharks",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-04-27",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Nashville Predators",
+        "awayTeam": "Winnipeg Jets",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-04-28",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Tampa Bay Lightning",
+        "awayTeam": "Boston Bruins",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-04-28",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Vegas Golden Knights",
+        "awayTeam": "San Jose Sharks",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-04-29",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Washington Capitals",
+        "awayTeam": "Pittsburgh Penguins",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-04-29",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Nashville Predators",
+        "awayTeam": "Winnipeg Jets",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-04-30",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Tampa Bay Lightning",
+        "awayTeam": "Boston Bruins",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-04-30",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "San Jose Sharks",
+        "awayTeam": "Vegas Golden Knights",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-05-01",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Pittsburgh Penguins",
+        "awayTeam": "Washington Capitals",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-05-01",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Winnipeg Jets",
+        "awayTeam": "Nashville Predators",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-05-02",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Boston Bruins",
+        "awayTeam": "Tampa Bay Lightning",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-05-02",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "San Jose Sharks",
+        "awayTeam": "Vegas Golden Knights",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-05-03",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Pittsburgh Penguins",
+        "awayTeam": "Washington Capitals",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-05-03",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Winnipeg Jets",
+        "awayTeam": "Nashville Predators",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-05-04",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Boston Bruins",
+        "awayTeam": "Tampa Bay Lightning",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-05-04",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Vegas Golden Knights",
+        "awayTeam": "San Jose Sharks",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-05-05",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Washington Capitals",
+        "awayTeam": "Pittsburgh Penguins",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-05-05",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Nashville Predators",
+        "awayTeam": "Winnipeg Jets",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-05-06",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Tampa Bay Lightning",
+        "awayTeam": "Boston Bruins",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-05-06",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "San Jose Sharks",
+        "awayTeam": "Vegas Golden Knights",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-05-07",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Pittsburgh Penguins",
+        "awayTeam": "Washington Capitals",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-05-07",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Winnipeg Jets",
+        "awayTeam": "Nashville Predators",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-05-08",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Boston Bruins",
+        "awayTeam": "Tampa Bay Lightning",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-05-08",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Vegas Golden Knights",
+        "awayTeam": "San Jose Sharks",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-05-09",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Washington Capitals",
+        "awayTeam": "Pittsburgh Penguins",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-05-10",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Tampa Bay Lightning",
+        "awayTeam": "Boston Bruins",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-05-10",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Nashville Predators",
+        "awayTeam": "Winnipeg Jets",
         "homeGoals": 0,
         "awayGoals": 0
     }
