@@ -11891,20 +11891,20 @@
     {
         "date": "2018-04-30",
         "gameType": "P",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Tampa Bay Lightning",
         "awayTeam": "Boston Bruins",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 4,
+        "awayGoals": 2
     },
     {
         "date": "2018-04-30",
         "gameType": "P",
-        "resultType": "TBD",
+        "resultType": "OT",
         "homeTeam": "San Jose Sharks",
         "awayTeam": "Vegas Golden Knights",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 3,
+        "awayGoals": 4
     },
     {
         "date": "2018-05-01",
