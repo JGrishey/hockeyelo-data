@@ -12017,29 +12017,20 @@
     {
         "date": "2018-05-07",
         "gameType": "P",
-        "resultType": "TBD",
+        "resultType": "OT",
         "homeTeam": "Pittsburgh Penguins",
         "awayTeam": "Washington Capitals",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 1,
+        "awayGoals": 2
     },
     {
         "date": "2018-05-07",
         "gameType": "P",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Winnipeg Jets",
         "awayTeam": "Nashville Predators",
         "homeGoals": 0,
-        "awayGoals": 0
-    },
-    {
-        "date": "2018-05-09",
-        "gameType": "P",
-        "resultType": "TBD",
-        "homeTeam": "Washington Capitals",
-        "awayTeam": "Pittsburgh Penguins",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "awayGoals": 4
     },
     {
         "date": "2018-05-10",
