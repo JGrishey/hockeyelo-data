@@ -12040,5 +12040,68 @@
         "awayTeam": "Winnipeg Jets",
         "homeGoals": 0,
         "awayGoals": 0
+    },
+    {
+        "date": "2018-05-11",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Tampa Bay Lightning",
+        "awayTeam": "Washington Capitals",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-05-13",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Tampa Bay Lightning",
+        "awayTeam": "Washington Capitals",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-05-15",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Washington Capitals",
+        "awayTeam": "Tampa Bay Lightning",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-05-17",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Washington Capitals",
+        "awayTeam": "Tampa Bay Lightning",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-05-19",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Tampa Bay Lightning",
+        "awayTeam": "Washington Capitals",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-05-21",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Washington Capitals",
+        "awayTeam": "Tampa Bay Lightning",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-05-23",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Tampa Bay Lightning",
+        "awayTeam": "Washington Capitals",
+        "homeGoals": 0,
+        "awayGoals": 0
     }
 ]
