@@ -12062,11 +12062,11 @@
     {
         "date": "2018-05-13",
         "gameType": "P",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Tampa Bay Lightning",
         "awayTeam": "Washington Capitals",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 2,
+        "awayGoals": 6
     },
     {
         "date": "2018-05-14",
