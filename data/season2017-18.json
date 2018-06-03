@@ -12125,45 +12125,90 @@
     {
         "date": "2018-05-20",
         "gameType": "P",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Winnipeg Jets",
         "awayTeam": "Vegas Golden Knights",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 1,
+        "awayGoals": 2
     },
     {
         "date": "2018-05-21",
         "gameType": "P",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Washington Capitals",
         "awayTeam": "Tampa Bay Lightning",
-        "homeGoals": 0,
-        "awayGoals": 0
-    },
-    {
-        "date": "2018-05-22",
-        "gameType": "P",
-        "resultType": "TBD",
-        "homeTeam": "Vegas Golden Knights",
-        "awayTeam": "Winnipeg Jets",
-        "homeGoals": 0,
+        "homeGoals": 3,
         "awayGoals": 0
     },
     {
         "date": "2018-05-23",
         "gameType": "P",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Tampa Bay Lightning",
+        "awayTeam": "Washington Capitals",
+        "homeGoals": 0,
+        "awayGoals": 4
+    },
+    {
+        "date": "2018-05-28",
+        "gameType": "P",
+        "resultType": "REG",
+        "homeTeam": "Vegas Golden Knights",
+        "awayTeam": "Washington Capitals",
+        "homeGoals": 6,
+        "awayGoals": 4
+    },
+    {
+        "date": "2018-05-30",
+        "gameType": "P",
+        "resultType": "REG",
+        "homeTeam": "Vegas Golden Knights",
+        "awayTeam": "Washington Capitals",
+        "homeGoals": 2,
+        "awayGoals": 3
+    },
+    {
+        "date": "2018-06-02",
+        "gameType": "P",
+        "resultType": "REG",
+        "homeTeam": "Washington Capitals",
+        "awayTeam": "Vegas Golden Knights",
+        "homeGoals": 3,
+        "awayGoals": 1
+    },
+    {
+        "date": "2018-06-04",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Washington Capitals",
+        "awayTeam": "Vegas Golden Knights",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-06-07",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Vegas Golden Knights",
         "awayTeam": "Washington Capitals",
         "homeGoals": 0,
         "awayGoals": 0
     },
     {
-        "date": "2018-05-24",
+        "date": "2018-06-10",
         "gameType": "P",
         "resultType": "TBD",
-        "homeTeam": "Winnipeg Jets",
+        "homeTeam": "Washington Capitals",
         "awayTeam": "Vegas Golden Knights",
+        "homeGoals": 0,
+        "awayGoals": 0
+    },
+    {
+        "date": "2018-06-13",
+        "gameType": "P",
+        "resultType": "TBD",
+        "homeTeam": "Vegas Golden Knights",
+        "awayTeam": "Washington Capitals",
         "homeGoals": 0,
         "awayGoals": 0
     }
