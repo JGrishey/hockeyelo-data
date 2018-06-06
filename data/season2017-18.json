@@ -12179,11 +12179,11 @@
     {
         "date": "2018-06-04",
         "gameType": "P",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Washington Capitals",
         "awayTeam": "Vegas Golden Knights",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 6,
+        "awayGoals": 2
     },
     {
         "date": "2018-06-07",
