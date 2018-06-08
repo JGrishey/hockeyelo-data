@@ -12188,28 +12188,10 @@
     {
         "date": "2018-06-07",
         "gameType": "P",
-        "resultType": "TBD",
+        "resultType": "REG",
         "homeTeam": "Vegas Golden Knights",
         "awayTeam": "Washington Capitals",
-        "homeGoals": 0,
-        "awayGoals": 0
-    },
-    {
-        "date": "2018-06-10",
-        "gameType": "P",
-        "resultType": "TBD",
-        "homeTeam": "Washington Capitals",
-        "awayTeam": "Vegas Golden Knights",
-        "homeGoals": 0,
-        "awayGoals": 0
-    },
-    {
-        "date": "2018-06-13",
-        "gameType": "P",
-        "resultType": "TBD",
-        "homeTeam": "Vegas Golden Knights",
-        "awayTeam": "Washington Capitals",
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 3,
+        "awayGoals": 4
     }
 ]
