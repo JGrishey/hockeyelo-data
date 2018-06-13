@@ -49,7 +49,7 @@
         "gameType": "R",
         "resultType": "SO",
         "homeTeam": "Buffalo Sabres",
-        "awayTeam": "Montreal Canadiens",
+        "awayTeam": "Montr\u00e9al Canadiens",
         "homeGoals": 2,
         "awayGoals": 3
     },
@@ -165,8 +165,8 @@
         "date": "2017-10-07",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": [],
-        "awayTeam": [],
+        "homeTeam": "Florida Panthers",
+        "awayTeam": "Tampa Bay Lightning",
         "homeGoals": 5,
         "awayGoals": 4
     },
@@ -193,7 +193,7 @@
         "gameType": "R",
         "resultType": "REG",
         "homeTeam": "Washington Capitals",
-        "awayTeam": "Montreal Canadiens",
+        "awayTeam": "Montr\u00e9al Canadiens",
         "homeGoals": 6,
         "awayGoals": 1
     },
@@ -274,7 +274,7 @@
         "gameType": "R",
         "resultType": "REG",
         "homeTeam": "New York Rangers",
-        "awayTeam": "Montreal Canadiens",
+        "awayTeam": "Montr\u00e9al Canadiens",
         "homeGoals": 2,
         "awayGoals": 0
     },
@@ -300,8 +300,8 @@
         "date": "2017-10-09",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": [],
-        "awayTeam": [],
+        "homeTeam": "Buffalo Sabres",
+        "awayTeam": "New Jersey Devils",
         "homeGoals": 2,
         "awayGoals": 6
     },
@@ -363,7 +363,7 @@
         "date": "2017-10-10",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": "Montreal Canadiens",
+        "homeTeam": "Montr\u00e9al Canadiens",
         "awayTeam": "Chicago Blackhawks",
         "homeGoals": 1,
         "awayGoals": 3
@@ -570,7 +570,7 @@
         "date": "2017-10-14",
         "gameType": "R",
         "resultType": "OT",
-        "homeTeam": "Montreal Canadiens",
+        "homeTeam": "Montr\u00e9al Canadiens",
         "awayTeam": "Toronto Maple Leafs",
         "homeGoals": 3,
         "awayGoals": 4
@@ -814,7 +814,7 @@
         "gameType": "R",
         "resultType": "REG",
         "homeTeam": "San Jose Sharks",
-        "awayTeam": "Montreal Canadiens",
+        "awayTeam": "Montr\u00e9al Canadiens",
         "homeGoals": 5,
         "awayGoals": 2
     },
@@ -841,7 +841,7 @@
         "gameType": "R",
         "resultType": "REG",
         "homeTeam": "Los Angeles Kings",
-        "awayTeam": "Montreal Canadiens",
+        "awayTeam": "Montr\u00e9al Canadiens",
         "homeGoals": 5,
         "awayGoals": 1
     },
@@ -976,7 +976,7 @@
         "gameType": "R",
         "resultType": "REG",
         "homeTeam": "Anaheim Ducks",
-        "awayTeam": "Montreal Canadiens",
+        "awayTeam": "Montr\u00e9al Canadiens",
         "homeGoals": 6,
         "awayGoals": 2
     },
@@ -1164,7 +1164,7 @@
         "date": "2017-10-24",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": "Montreal Canadiens",
+        "homeTeam": "Montr\u00e9al Canadiens",
         "awayTeam": "Florida Panthers",
         "homeGoals": 5,
         "awayGoals": 1
@@ -1272,7 +1272,7 @@
         "date": "2017-10-26",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": "Montreal Canadiens",
+        "homeTeam": "Montr\u00e9al Canadiens",
         "awayTeam": "Los Angeles Kings",
         "homeGoals": 0,
         "awayGoals": 4
@@ -1416,7 +1416,7 @@
         "date": "2017-10-28",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": "Montreal Canadiens",
+        "homeTeam": "Montr\u00e9al Canadiens",
         "awayTeam": "New York Rangers",
         "homeGoals": 5,
         "awayGoals": 4
@@ -1552,7 +1552,7 @@
         "gameType": "R",
         "resultType": "REG",
         "homeTeam": "Ottawa Senators",
-        "awayTeam": "Montreal Canadiens",
+        "awayTeam": "Montr\u00e9al Canadiens",
         "homeGoals": 3,
         "awayGoals": 8
     },
@@ -1723,7 +1723,7 @@
         "gameType": "R",
         "resultType": "REG",
         "homeTeam": "Minnesota Wild",
-        "awayTeam": "Montreal Canadiens",
+        "awayTeam": "Montr\u00e9al Canadiens",
         "homeGoals": 6,
         "awayGoals": 3
     },
@@ -1758,8 +1758,8 @@
         "date": "2017-11-02",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": [],
-        "awayTeam": [],
+        "homeTeam": "Arizona Coyotes",
+        "awayTeam": "Buffalo Sabres",
         "homeGoals": 4,
         "awayGoals": 5
     },
@@ -1785,8 +1785,8 @@
         "date": "2017-11-03",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": [],
-        "awayTeam": [],
+        "homeTeam": "Anaheim Ducks",
+        "awayTeam": "Nashville Predators",
         "homeGoals": 3,
         "awayGoals": 5
     },
@@ -1813,7 +1813,7 @@
         "gameType": "R",
         "resultType": "OT",
         "homeTeam": "Winnipeg Jets",
-        "awayTeam": "Montreal Canadiens",
+        "awayTeam": "Montr\u00e9al Canadiens",
         "homeGoals": 4,
         "awayGoals": 5
     },
@@ -1875,8 +1875,8 @@
         "date": "2017-11-04",
         "gameType": "R",
         "resultType": "SO",
-        "homeTeam": [],
-        "awayTeam": [],
+        "homeTeam": "Arizona Coyotes",
+        "awayTeam": "Carolina Hurricanes",
         "homeGoals": 2,
         "awayGoals": 1
     },
@@ -1930,7 +1930,7 @@
         "gameType": "R",
         "resultType": "REG",
         "homeTeam": "Chicago Blackhawks",
-        "awayTeam": "Montreal Canadiens",
+        "awayTeam": "Montr\u00e9al Canadiens",
         "homeGoals": 0,
         "awayGoals": 2
     },
@@ -2055,7 +2055,7 @@
         "date": "2017-11-07",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": "Montreal Canadiens",
+        "homeTeam": "Montr\u00e9al Canadiens",
         "awayTeam": "Vegas Golden Knights",
         "homeGoals": 3,
         "awayGoals": 2
@@ -2127,7 +2127,7 @@
         "date": "2017-11-09",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": "Montreal Canadiens",
+        "homeTeam": "Montr\u00e9al Canadiens",
         "awayTeam": "Minnesota Wild",
         "homeGoals": 0,
         "awayGoals": 3
@@ -2262,7 +2262,7 @@
         "date": "2017-11-11",
         "gameType": "R",
         "resultType": "OT",
-        "homeTeam": "Montreal Canadiens",
+        "homeTeam": "Montr\u00e9al Canadiens",
         "awayTeam": "Buffalo Sabres",
         "homeGoals": 2,
         "awayGoals": 1
@@ -2343,8 +2343,8 @@
         "date": "2017-11-12",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": [],
-        "awayTeam": [],
+        "homeTeam": "Chicago Blackhawks",
+        "awayTeam": "New Jersey Devils",
         "homeGoals": 5,
         "awayGoals": 7
     },
@@ -2406,7 +2406,7 @@
         "date": "2017-11-14",
         "gameType": "R",
         "resultType": "OT",
-        "homeTeam": "Montreal Canadiens",
+        "homeTeam": "Montr\u00e9al Canadiens",
         "awayTeam": "Columbus Blue Jackets",
         "homeGoals": 1,
         "awayGoals": 2
@@ -2514,7 +2514,7 @@
         "date": "2017-11-16",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": "Montreal Canadiens",
+        "homeTeam": "Montr\u00e9al Canadiens",
         "awayTeam": "Arizona Coyotes",
         "homeGoals": 4,
         "awayGoals": 5
@@ -2676,7 +2676,7 @@
         "date": "2017-11-18",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": "Montreal Canadiens",
+        "homeTeam": "Montr\u00e9al Canadiens",
         "awayTeam": "Toronto Maple Leafs",
         "homeGoals": 0,
         "awayGoals": 6
@@ -2775,8 +2775,8 @@
         "date": "2017-11-19",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": [],
-        "awayTeam": [],
+        "homeTeam": "Anaheim Ducks",
+        "awayTeam": "Florida Panthers",
         "homeGoals": 3,
         "awayGoals": 2
     },
@@ -2856,8 +2856,8 @@
         "date": "2017-11-21",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": [],
-        "awayTeam": [],
+        "homeTeam": "Dallas Stars",
+        "awayTeam": "Montr\u00e9al Canadiens",
         "homeGoals": 3,
         "awayGoals": 1
     },
@@ -2956,7 +2956,7 @@
         "gameType": "R",
         "resultType": "SO",
         "homeTeam": "Nashville Predators",
-        "awayTeam": "Montreal Canadiens",
+        "awayTeam": "Montr\u00e9al Canadiens",
         "homeGoals": 3,
         "awayGoals": 2
     },
@@ -3135,7 +3135,7 @@
         "date": "2017-11-25",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": "Montreal Canadiens",
+        "homeTeam": "Montr\u00e9al Canadiens",
         "awayTeam": "Buffalo Sabres",
         "homeGoals": 3,
         "awayGoals": 0
@@ -3270,7 +3270,7 @@
         "date": "2017-11-27",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": "Montreal Canadiens",
+        "homeTeam": "Montr\u00e9al Canadiens",
         "awayTeam": "Columbus Blue Jackets",
         "homeGoals": 3,
         "awayGoals": 1
@@ -3396,7 +3396,7 @@
         "date": "2017-11-29",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": "Montreal Canadiens",
+        "homeTeam": "Montr\u00e9al Canadiens",
         "awayTeam": "Ottawa Senators",
         "homeGoals": 2,
         "awayGoals": 1
@@ -3433,7 +3433,7 @@
         "gameType": "R",
         "resultType": "REG",
         "homeTeam": "Detroit Red Wings",
-        "awayTeam": "Montreal Canadiens",
+        "awayTeam": "Montr\u00e9al Canadiens",
         "homeGoals": 3,
         "awayGoals": 6
     },
@@ -3540,8 +3540,8 @@
         "date": "2017-12-01",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": [],
-        "awayTeam": [],
+        "homeTeam": "Winnipeg Jets",
+        "awayTeam": "Vegas Golden Knights",
         "homeGoals": 7,
         "awayGoals": 4
     },
@@ -3585,7 +3585,7 @@
         "date": "2017-12-02",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": "Montreal Canadiens",
+        "homeTeam": "Montr\u00e9al Canadiens",
         "awayTeam": "Detroit Red Wings",
         "homeGoals": 10,
         "awayGoals": 1
@@ -3693,8 +3693,8 @@
         "date": "2017-12-03",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": [],
-        "awayTeam": [],
+        "homeTeam": "Colorado Avalanche",
+        "awayTeam": "Dallas Stars",
         "homeGoals": 2,
         "awayGoals": 7
     },
@@ -3756,7 +3756,7 @@
         "date": "2017-12-05",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": "Montreal Canadiens",
+        "homeTeam": "Montr\u00e9al Canadiens",
         "awayTeam": "St. Louis Blues",
         "homeGoals": 3,
         "awayGoals": 4
@@ -3882,7 +3882,7 @@
         "date": "2017-12-07",
         "gameType": "R",
         "resultType": "OT",
-        "homeTeam": "Montreal Canadiens",
+        "homeTeam": "Montr\u00e9al Canadiens",
         "awayTeam": "Calgary Flames",
         "homeGoals": 2,
         "awayGoals": 3
@@ -4008,7 +4008,7 @@
         "date": "2017-12-09",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": "Montreal Canadiens",
+        "homeTeam": "Montr\u00e9al Canadiens",
         "awayTeam": "Edmonton Oilers",
         "homeGoals": 2,
         "awayGoals": 6
@@ -4107,8 +4107,8 @@
         "date": "2017-12-10",
         "gameType": "R",
         "resultType": "OT",
-        "homeTeam": [],
-        "awayTeam": [],
+        "homeTeam": "St. Louis Blues",
+        "awayTeam": "Buffalo Sabres",
         "homeGoals": 3,
         "awayGoals": 2
     },
@@ -4323,8 +4323,8 @@
         "date": "2017-12-14",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": [],
-        "awayTeam": [],
+        "homeTeam": "Columbus Blue Jackets",
+        "awayTeam": "New York Islanders",
         "homeGoals": 6,
         "awayGoals": 4
     },
@@ -4332,7 +4332,7 @@
         "date": "2017-12-14",
         "gameType": "R",
         "resultType": "OT",
-        "homeTeam": "Montreal Canadiens",
+        "homeTeam": "Montr\u00e9al Canadiens",
         "awayTeam": "New Jersey Devils",
         "homeGoals": 2,
         "awayGoals": 1
@@ -4486,7 +4486,7 @@
         "gameType": "R",
         "resultType": "REG",
         "homeTeam": "Ottawa Senators",
-        "awayTeam": "Montreal Canadiens",
+        "awayTeam": "Montr\u00e9al Canadiens",
         "homeGoals": 3,
         "awayGoals": 0
     },
@@ -4638,8 +4638,8 @@
         "date": "2017-12-19",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": [],
-        "awayTeam": [],
+        "homeTeam": "Toronto Maple Leafs",
+        "awayTeam": "Carolina Hurricanes",
         "homeGoals": 8,
         "awayGoals": 1
     },
@@ -4711,7 +4711,7 @@
         "gameType": "R",
         "resultType": "REG",
         "homeTeam": "Vancouver Canucks",
-        "awayTeam": "Montreal Canadiens",
+        "awayTeam": "Montr\u00e9al Canadiens",
         "homeGoals": 5,
         "awayGoals": 7
     },
@@ -4854,8 +4854,8 @@
         "date": "2017-12-22",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": [],
-        "awayTeam": [],
+        "homeTeam": "Florida Panthers",
+        "awayTeam": "Minnesota Wild",
         "homeGoals": 4,
         "awayGoals": 2
     },
@@ -4864,7 +4864,7 @@
         "gameType": "R",
         "resultType": "REG",
         "homeTeam": "Calgary Flames",
-        "awayTeam": "Montreal Canadiens",
+        "awayTeam": "Montr\u00e9al Canadiens",
         "homeGoals": 2,
         "awayGoals": 3
     },
@@ -4900,7 +4900,7 @@
         "gameType": "R",
         "resultType": "REG",
         "homeTeam": "Edmonton Oilers",
-        "awayTeam": "Montreal Canadiens",
+        "awayTeam": "Montr\u00e9al Canadiens",
         "homeGoals": 4,
         "awayGoals": 1
     },
@@ -5053,7 +5053,7 @@
         "gameType": "R",
         "resultType": "REG",
         "homeTeam": "Carolina Hurricanes",
-        "awayTeam": "Montreal Canadiens",
+        "awayTeam": "Montr\u00e9al Canadiens",
         "homeGoals": 3,
         "awayGoals": 1
     },
@@ -5125,7 +5125,7 @@
         "gameType": "R",
         "resultType": "REG",
         "homeTeam": "Tampa Bay Lightning",
-        "awayTeam": "Montreal Canadiens",
+        "awayTeam": "Montr\u00e9al Canadiens",
         "homeGoals": 3,
         "awayGoals": 1
     },
@@ -5287,7 +5287,7 @@
         "gameType": "R",
         "resultType": "REG",
         "homeTeam": "Florida Panthers",
-        "awayTeam": "Montreal Canadiens",
+        "awayTeam": "Montr\u00e9al Canadiens",
         "homeGoals": 2,
         "awayGoals": 0
     },
@@ -5448,7 +5448,7 @@
         "date": "2018-01-02",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": "Montreal Canadiens",
+        "homeTeam": "Montr\u00e9al Canadiens",
         "awayTeam": "San Jose Sharks",
         "homeGoals": 1,
         "awayGoals": 4
@@ -5565,7 +5565,7 @@
         "date": "2018-01-04",
         "gameType": "R",
         "resultType": "SO",
-        "homeTeam": "Montreal Canadiens",
+        "homeTeam": "Montr\u00e9al Canadiens",
         "awayTeam": "Tampa Bay Lightning",
         "homeGoals": 2,
         "awayGoals": 1
@@ -5727,8 +5727,8 @@
         "date": "2018-01-06",
         "gameType": "R",
         "resultType": "SO",
-        "homeTeam": [],
-        "awayTeam": [],
+        "homeTeam": "Arizona Coyotes",
+        "awayTeam": "New York Rangers",
         "homeGoals": 1,
         "awayGoals": 2
     },
@@ -5817,7 +5817,7 @@
         "date": "2018-01-07",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": "Montreal Canadiens",
+        "homeTeam": "Montr\u00e9al Canadiens",
         "awayTeam": "Vancouver Canucks",
         "homeGoals": 5,
         "awayGoals": 2
@@ -6033,8 +6033,8 @@
         "date": "2018-01-13",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": [],
-        "awayTeam": [],
+        "homeTeam": "Minnesota Wild",
+        "awayTeam": "Winnipeg Jets",
         "homeGoals": 4,
         "awayGoals": 1
     },
@@ -6042,7 +6042,7 @@
         "date": "2018-01-13",
         "gameType": "R",
         "resultType": "SO",
-        "homeTeam": "Montreal Canadiens",
+        "homeTeam": "Montr\u00e9al Canadiens",
         "awayTeam": "Boston Bruins",
         "homeGoals": 3,
         "awayGoals": 4
@@ -6159,7 +6159,7 @@
         "date": "2018-01-15",
         "gameType": "R",
         "resultType": "OT",
-        "homeTeam": "Montreal Canadiens",
+        "homeTeam": "Montr\u00e9al Canadiens",
         "awayTeam": "New York Islanders",
         "homeGoals": 4,
         "awayGoals": 5
@@ -6223,7 +6223,7 @@
         "gameType": "R",
         "resultType": "REG",
         "homeTeam": "Boston Bruins",
-        "awayTeam": "Montreal Canadiens",
+        "awayTeam": "Montr\u00e9al Canadiens",
         "homeGoals": 4,
         "awayGoals": 1
     },
@@ -6340,7 +6340,7 @@
         "gameType": "R",
         "resultType": "REG",
         "homeTeam": "Washington Capitals",
-        "awayTeam": "Montreal Canadiens",
+        "awayTeam": "Montr\u00e9al Canadiens",
         "homeGoals": 2,
         "awayGoals": 3
     },
@@ -6393,7 +6393,7 @@
         "date": "2018-01-20",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": "Montreal Canadiens",
+        "homeTeam": "Montr\u00e9al Canadiens",
         "awayTeam": "Boston Bruins",
         "homeGoals": 1,
         "awayGoals": 4
@@ -6591,7 +6591,7 @@
         "date": "2018-01-23",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": "Montreal Canadiens",
+        "homeTeam": "Montr\u00e9al Canadiens",
         "awayTeam": "Colorado Avalanche",
         "homeGoals": 4,
         "awayGoals": 2
@@ -6726,7 +6726,7 @@
         "date": "2018-01-25",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": "Montreal Canadiens",
+        "homeTeam": "Montr\u00e9al Canadiens",
         "awayTeam": "Carolina Hurricanes",
         "homeGoals": 5,
         "awayGoals": 6
@@ -6889,7 +6889,7 @@
         "gameType": "R",
         "resultType": "REG",
         "homeTeam": "St. Louis Blues",
-        "awayTeam": "Montreal Canadiens",
+        "awayTeam": "Montr\u00e9al Canadiens",
         "homeGoals": 3,
         "awayGoals": 1
     },
@@ -7006,7 +7006,7 @@
         "gameType": "R",
         "resultType": "REG",
         "homeTeam": "Carolina Hurricanes",
-        "awayTeam": "Montreal Canadiens",
+        "awayTeam": "Montr\u00e9al Canadiens",
         "homeGoals": 2,
         "awayGoals": 0
     },
@@ -7014,8 +7014,8 @@
         "date": "2018-02-01",
         "gameType": "R",
         "resultType": "OT",
-        "homeTeam": [],
-        "awayTeam": [],
+        "homeTeam": "Ottawa Senators",
+        "awayTeam": "Anaheim Ducks",
         "homeGoals": 2,
         "awayGoals": 1
     },
@@ -7113,8 +7113,8 @@
         "date": "2018-02-03",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": [],
-        "awayTeam": [],
+        "homeTeam": "Montr\u00e9al Canadiens",
+        "awayTeam": "Anaheim Ducks",
         "homeGoals": 5,
         "awayGoals": 2
     },
@@ -7239,7 +7239,7 @@
         "date": "2018-02-04",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": "Montreal Canadiens",
+        "homeTeam": "Montr\u00e9al Canadiens",
         "awayTeam": "Ottawa Senators",
         "homeGoals": 4,
         "awayGoals": 1
@@ -7284,8 +7284,8 @@
         "date": "2018-02-05",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": [],
-        "awayTeam": [],
+        "homeTeam": "Edmonton Oilers",
+        "awayTeam": "Tampa Bay Lightning",
         "homeGoals": 6,
         "awayGoals": 2
     },
@@ -7438,7 +7438,7 @@
         "gameType": "R",
         "resultType": "REG",
         "homeTeam": "Philadelphia Flyers",
-        "awayTeam": "Montreal Canadiens",
+        "awayTeam": "Montr\u00e9al Canadiens",
         "homeGoals": 5,
         "awayGoals": 3
     },
@@ -7590,7 +7590,7 @@
         "date": "2018-02-10",
         "gameType": "R",
         "resultType": "SO",
-        "homeTeam": "Montreal Canadiens",
+        "homeTeam": "Montr\u00e9al Canadiens",
         "awayTeam": "Nashville Predators",
         "homeGoals": 2,
         "awayGoals": 3
@@ -7689,8 +7689,8 @@
         "date": "2018-02-11",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": [],
-        "awayTeam": [],
+        "homeTeam": "Buffalo Sabres",
+        "awayTeam": "Colorado Avalanche",
         "homeGoals": 4,
         "awayGoals": 5
     },
@@ -7879,7 +7879,7 @@
         "gameType": "R",
         "resultType": "REG",
         "homeTeam": "Colorado Avalanche",
-        "awayTeam": "Montreal Canadiens",
+        "awayTeam": "Montr\u00e9al Canadiens",
         "homeGoals": 2,
         "awayGoals": 0
     },
@@ -7969,7 +7969,7 @@
         "gameType": "R",
         "resultType": "REG",
         "homeTeam": "Arizona Coyotes",
-        "awayTeam": "Montreal Canadiens",
+        "awayTeam": "Montr\u00e9al Canadiens",
         "homeGoals": 5,
         "awayGoals": 2
     },
@@ -8068,7 +8068,7 @@
         "gameType": "R",
         "resultType": "REG",
         "homeTeam": "Vegas Golden Knights",
-        "awayTeam": "Montreal Canadiens",
+        "awayTeam": "Montr\u00e9al Canadiens",
         "homeGoals": 6,
         "awayGoals": 3
     },
@@ -8266,7 +8266,7 @@
         "gameType": "R",
         "resultType": "OT",
         "homeTeam": "Philadelphia Flyers",
-        "awayTeam": "Montreal Canadiens",
+        "awayTeam": "Montr\u00e9al Canadiens",
         "homeGoals": 3,
         "awayGoals": 2
     },
@@ -8382,7 +8382,7 @@
         "date": "2018-02-22",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": "Montreal Canadiens",
+        "homeTeam": "Montr\u00e9al Canadiens",
         "awayTeam": "New York Rangers",
         "homeGoals": 3,
         "awayGoals": 1
@@ -8400,8 +8400,8 @@
         "date": "2018-02-22",
         "gameType": "R",
         "resultType": "OT",
-        "homeTeam": [],
-        "awayTeam": [],
+        "homeTeam": "Detroit Red Wings",
+        "awayTeam": "Buffalo Sabres",
         "homeGoals": 2,
         "awayGoals": 3
     },
@@ -8454,8 +8454,8 @@
         "date": "2018-02-23",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": [],
-        "awayTeam": [],
+        "homeTeam": "New York Rangers",
+        "awayTeam": "Minnesota Wild",
         "homeGoals": 1,
         "awayGoals": 4
     },
@@ -8544,7 +8544,7 @@
         "date": "2018-02-24",
         "gameType": "R",
         "resultType": "SO",
-        "homeTeam": "Montreal Canadiens",
+        "homeTeam": "Montr\u00e9al Canadiens",
         "awayTeam": "Tampa Bay Lightning",
         "homeGoals": 3,
         "awayGoals": 4
@@ -8571,8 +8571,8 @@
         "date": "2018-02-24",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": [],
-        "awayTeam": [],
+        "homeTeam": "Washington Capitals",
+        "awayTeam": "Buffalo Sabres",
         "homeGoals": 5,
         "awayGoals": 1
     },
@@ -8670,7 +8670,7 @@
         "date": "2018-02-26",
         "gameType": "R",
         "resultType": "SO",
-        "homeTeam": "Montreal Canadiens",
+        "homeTeam": "Montr\u00e9al Canadiens",
         "awayTeam": "Philadelphia Flyers",
         "homeGoals": 0,
         "awayGoals": 1
@@ -8787,7 +8787,7 @@
         "date": "2018-02-28",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": "Montreal Canadiens",
+        "homeTeam": "Montr\u00e9al Canadiens",
         "awayTeam": "New York Islanders",
         "homeGoals": 3,
         "awayGoals": 1
@@ -8905,7 +8905,7 @@
         "gameType": "R",
         "resultType": "REG",
         "homeTeam": "New York Islanders",
-        "awayTeam": "Montreal Canadiens",
+        "awayTeam": "Montr\u00e9al Canadiens",
         "homeGoals": 3,
         "awayGoals": 6
     },
@@ -8994,8 +8994,8 @@
         "date": "2018-03-03",
         "gameType": "R",
         "resultType": "OT",
-        "homeTeam": [],
-        "awayTeam": [],
+        "homeTeam": "Dallas Stars",
+        "awayTeam": "St. Louis Blues",
         "homeGoals": 3,
         "awayGoals": 2
     },
@@ -9013,7 +9013,7 @@
         "gameType": "R",
         "resultType": "OT",
         "homeTeam": "Boston Bruins",
-        "awayTeam": "Montreal Canadiens",
+        "awayTeam": "Montr\u00e9al Canadiens",
         "homeGoals": 2,
         "awayGoals": 1
     },
@@ -9175,7 +9175,7 @@
         "gameType": "R",
         "resultType": "REG",
         "homeTeam": "New Jersey Devils",
-        "awayTeam": "Montreal Canadiens",
+        "awayTeam": "Montr\u00e9al Canadiens",
         "homeGoals": 6,
         "awayGoals": 4
     },
@@ -9328,7 +9328,7 @@
         "gameType": "R",
         "resultType": "REG",
         "homeTeam": "Florida Panthers",
-        "awayTeam": "Montreal Canadiens",
+        "awayTeam": "Montr\u00e9al Canadiens",
         "homeGoals": 5,
         "awayGoals": 0
     },
@@ -9372,8 +9372,8 @@
         "date": "2018-03-08",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": [],
-        "awayTeam": [],
+        "homeTeam": "San Jose Sharks",
+        "awayTeam": "St. Louis Blues",
         "homeGoals": 2,
         "awayGoals": 0
     },
@@ -9436,7 +9436,7 @@
         "gameType": "R",
         "resultType": "SO",
         "homeTeam": "Tampa Bay Lightning",
-        "awayTeam": "Montreal Canadiens",
+        "awayTeam": "Montr\u00e9al Canadiens",
         "homeGoals": 3,
         "awayGoals": 2
     },
@@ -9580,7 +9580,7 @@
         "gameType": "R",
         "resultType": "REG",
         "homeTeam": "Columbus Blue Jackets",
-        "awayTeam": "Montreal Canadiens",
+        "awayTeam": "Montr\u00e9al Canadiens",
         "homeGoals": 5,
         "awayGoals": 2
     },
@@ -9633,7 +9633,7 @@
         "date": "2018-03-13",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": "Montreal Canadiens",
+        "homeTeam": "Montr\u00e9al Canadiens",
         "awayTeam": "Dallas Stars",
         "homeGoals": 4,
         "awayGoals": 2
@@ -9705,8 +9705,8 @@
         "date": "2018-03-14",
         "gameType": "R",
         "resultType": "OT",
-        "homeTeam": [],
-        "awayTeam": [],
+        "homeTeam": "Edmonton Oilers",
+        "awayTeam": "San Jose Sharks",
         "homeGoals": 3,
         "awayGoals": 4
     },
@@ -9759,7 +9759,7 @@
         "date": "2018-03-15",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": "Montreal Canadiens",
+        "homeTeam": "Montr\u00e9al Canadiens",
         "awayTeam": "Pittsburgh Penguins",
         "homeGoals": 3,
         "awayGoals": 5
@@ -9894,8 +9894,8 @@
         "date": "2018-03-17",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": [],
-        "awayTeam": [],
+        "homeTeam": "Toronto Maple Leafs",
+        "awayTeam": "Montr\u00e9al Canadiens",
         "homeGoals": 4,
         "awayGoals": 0
     },
@@ -10047,7 +10047,7 @@
         "date": "2018-03-19",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": "Montreal Canadiens",
+        "homeTeam": "Montr\u00e9al Canadiens",
         "awayTeam": "Florida Panthers",
         "homeGoals": 0,
         "awayGoals": 2
@@ -10119,8 +10119,8 @@
         "date": "2018-03-20",
         "gameType": "R",
         "resultType": "SO",
-        "homeTeam": [],
-        "awayTeam": [],
+        "homeTeam": "Detroit Red Wings",
+        "awayTeam": "Philadelphia Flyers",
         "homeGoals": 5,
         "awayGoals": 4
     },
@@ -10183,7 +10183,7 @@
         "gameType": "R",
         "resultType": "REG",
         "homeTeam": "Pittsburgh Penguins",
-        "awayTeam": "Montreal Canadiens",
+        "awayTeam": "Montr\u00e9al Canadiens",
         "homeGoals": 5,
         "awayGoals": 3
     },
@@ -10272,8 +10272,8 @@
         "date": "2018-03-22",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": [],
-        "awayTeam": [],
+        "homeTeam": "Chicago Blackhawks",
+        "awayTeam": "Vancouver Canucks",
         "homeGoals": 2,
         "awayGoals": 5
     },
@@ -10300,7 +10300,7 @@
         "gameType": "R",
         "resultType": "REG",
         "homeTeam": "Buffalo Sabres",
-        "awayTeam": "Montreal Canadiens",
+        "awayTeam": "Montr\u00e9al Canadiens",
         "homeGoals": 0,
         "awayGoals": 3
     },
@@ -10371,7 +10371,7 @@
         "date": "2018-03-24",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": "Montreal Canadiens",
+        "homeTeam": "Montr\u00e9al Canadiens",
         "awayTeam": "Washington Capitals",
         "homeGoals": 4,
         "awayGoals": 6
@@ -10533,7 +10533,7 @@
         "date": "2018-03-26",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": "Montreal Canadiens",
+        "homeTeam": "Montr\u00e9al Canadiens",
         "awayTeam": "Detroit Red Wings",
         "homeGoals": 4,
         "awayGoals": 2
@@ -10885,7 +10885,7 @@
         "gameType": "R",
         "resultType": "REG",
         "homeTeam": "Pittsburgh Penguins",
-        "awayTeam": "Montreal Canadiens",
+        "awayTeam": "Montr\u00e9al Canadiens",
         "homeGoals": 5,
         "awayGoals": 2
     },
@@ -10965,7 +10965,7 @@
         "date": "2018-04-01",
         "gameType": "R",
         "resultType": "REG",
-        "homeTeam": "Montreal Canadiens",
+        "homeTeam": "Montr\u00e9al Canadiens",
         "awayTeam": "New Jersey Devils",
         "homeGoals": 1,
         "awayGoals": 2
@@ -11073,7 +11073,7 @@
         "date": "2018-04-03",
         "gameType": "R",
         "resultType": "OT",
-        "homeTeam": "Montreal Canadiens",
+        "homeTeam": "Montr\u00e9al Canadiens",
         "awayTeam": "Winnipeg Jets",
         "homeGoals": 4,
         "awayGoals": 5
@@ -11200,7 +11200,7 @@
         "gameType": "R",
         "resultType": "REG",
         "homeTeam": "Detroit Red Wings",
-        "awayTeam": "Montreal Canadiens",
+        "awayTeam": "Montr\u00e9al Canadiens",
         "homeGoals": 3,
         "awayGoals": 4
     },
@@ -11326,7 +11326,7 @@
         "gameType": "R",
         "resultType": "REG",
         "homeTeam": "Toronto Maple Leafs",
-        "awayTeam": "Montreal Canadiens",
+        "awayTeam": "Montr\u00e9al Canadiens",
         "homeGoals": 4,
         "awayGoals": 2
     },
